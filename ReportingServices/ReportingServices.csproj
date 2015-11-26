@@ -147,6 +147,7 @@
     <Content Include="bin\System.Web.Http.WebHost.dll" />
     <Content Include="bin\System.Web.Http.WebHost.xml" />
     <Content Include="bin\System.Web.Http.xml" />
+    <Content Include="css\comm.css" />
     <Content Include="ExceptionDataGroupSyncRpt.aspx" />
     <Content Include="images\title.png" />
     <Content Include="images\znlogo.png" />
@@ -195,6 +196,9 @@
     <Content Include="abnormalrunning_so2.aspx" />
     <Content Include="abnormalrunning_nox.aspx" />
     <Content Include="abnormalrunning_dust.aspx" />
+    <Content Include="js\GroupRuleLogAutoComplete.js" />
+    <Content Include="script\jquery-1.6.2.min.js" />
+    <Content Include="script\jquery.autocomplete.min.js" />
     <Content Include="scr_startstop_ab_description.aspx" />
     <Content Include="scr_startstop_sync.aspx" />
     <Content Include="scr_startstop_ab_rd.aspx" />
@@ -272,6 +276,7 @@
     <Content Include="ReportingServices.Master" />
     <Content Include="Site1.Master" />
     <None Include="Properties\PublishProfiles\RS1.pubxml" />
+    <None Include="Properties\PublishProfiles\YQRS.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -1302,10 +1307,6 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Model\Model.csproj">
-      <Project>{3a2e28b4-a763-44d0-8409-1e63a774eb49}</Project>
-      <Name>Model</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{9b4e3474-1d0e-4131-a722-dfe024bee020}</Project>
       <Name>Common</Name>
@@ -1314,6 +1315,13 @@
       <Project>{756d069b-2f0b-4a07-b61a-b388634c3e6b}</Project>
       <Name>DAL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{3a2e28b4-a763-44d0-8409-1e63a774eb49}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

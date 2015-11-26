@@ -1,0 +1,4 @@
+D:\Github\YQReportingServices\Common\bin\Release\Common.dll
+D:\Github\YQReportingServices\Common\bin\Release\Common.pdb
+D:\Github\YQReportingServices\Common\obj\Release\Common.dll
+D:\Github\YQReportingServices\Common\obj\Release\Common.pdb

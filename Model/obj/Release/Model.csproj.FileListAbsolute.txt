@@ -1,0 +1,7 @@
+D:\Github\YQReportingServices\Model\bin\Release\Model.dll
+D:\Github\YQReportingServices\Model\bin\Release\Model.pdb
+D:\Github\YQReportingServices\Model\bin\Release\Common.dll
+D:\Github\YQReportingServices\Model\bin\Release\Common.pdb
+D:\Github\YQReportingServices\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+D:\Github\YQReportingServices\Model\obj\Release\Model.dll
+D:\Github\YQReportingServices\Model\obj\Release\Model.pdb

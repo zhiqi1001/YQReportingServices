@@ -96,12 +96,6 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ICEMS_WebManagement\ICEMS_WebManagement.csproj">
-      <Project>{88FAE179-5363-4378-9129-CB3EBFFE6D80}</Project>
-      <Name>ICEMS_WebManagement</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.

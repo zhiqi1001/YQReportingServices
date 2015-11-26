@@ -1,0 +1,7 @@
+D:\Github\YQReportingServices\DAL\bin\Debug\DAL.dll
+D:\Github\YQReportingServices\DAL\bin\Debug\DAL.pdb
+D:\Github\YQReportingServices\DAL\bin\Debug\Common.dll
+D:\Github\YQReportingServices\DAL\bin\Debug\Common.pdb
+D:\Github\YQReportingServices\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Github\YQReportingServices\DAL\obj\Debug\DAL.dll
+D:\Github\YQReportingServices\DAL\obj\Debug\DAL.pdb

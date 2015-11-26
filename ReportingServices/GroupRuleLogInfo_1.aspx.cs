@@ -163,6 +163,7 @@ namespace ReportingServices
                 catch (Exception ex)
                 {
                     ds = null;
+                    return;
                 }
                 #region
                 //if (!CheckBox_validvalue.Checked)
